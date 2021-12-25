@@ -4,7 +4,7 @@
 
 ![Обложка книги Руководство по Markdown](cover.png)
 
-Это репозиторий исходников перевода книги [*The Markdown Guide*](https://github.com/mattcone/markdown-guide). Вы можете купить книгу на языке оригинала на [Gumroad](https://gum.co/markdownguide), [LeanPub](https://leanpub.com/themarkdownguide) или [Amazon](https://www.amazon.com/dp/B07G7JB641).
+Это репозиторий исходников перевода книги [*The Markdown Guide*](https://github.com/mattcone/markdown-guide) на русский язык. Вы можете купить книгу на языке оригинала на [Gumroad](https://gum.co/markdownguide), [LeanPub](https://leanpub.com/themarkdownguide) или [Amazon](https://www.amazon.com/dp/B07G7JB641).
 
 ## Участие
 
